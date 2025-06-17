@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @nhhoang14!
+# 👋 Hi, I'm @nhhoang.14!
 
 #### 👩🏻‍🎓 Studied at the Posts & Telecoms Institute of Technology, Vietnam
 
