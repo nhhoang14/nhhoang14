@@ -12,8 +12,8 @@
   </a>
 </p>
 
-#### - 🎓 Studied at the Posts & Telecommunications Institute of Technology, Vietnam  
-#### - 📫 Reach me at **nhhoangne@gmail.com**
+#### • 🎓 Studied at the Posts & Telecommunications Institute of Technology, Vietnam  
+#### • 📫 Reach me at **nhhoangne@gmail.com**
 
 ## 💻 Tech Stack
 
