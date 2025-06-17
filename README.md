@@ -31,6 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nhhoang14&show_icons=true&theme=tokyonight&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhhoang14&layout=compact&theme=tokyonight" />
 </div>
+
 ## 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nhhoang14&theme=tokyo-night&hide_border=true)
