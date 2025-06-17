@@ -3,7 +3,7 @@
 - 🎓 Studied at the Posts & Telecommunications Institute of Technology, Vietnam  
 - 📫 Reach me at **nhhoangne@gmail.com**
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -15,7 +15,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nhhoang14&show_icons=true&theme=tokyonight&count_private=true" style="display: inline-block;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhhoang14&layout=compact&theme=tokyonight" style="display: inline-block;" />
 </p>
@@ -31,7 +31,14 @@
 ## 📈 Profile Stats
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nhhoang14&label=Profile%20views&color=3c57b3&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/nhhoang14?style=for-the-badge&label=Total%20Stars&color=3c57b3" />
-  <img src="https://img.shields.io/github/followers/nhhoang14?style=for-the-badge&label=Followers&color=3c57b3" />
+  <img alt="Profile views" title="Profile views on GitHub" 
+       src="https://komarev.com/ghpvc/?username=nhhoang14&label=Profile%20views&color=3c57b3&labelColor=2e4aa1&style=for-the-badge" />
+  <a href="https://github.com/nhhoang14?tab=followers">
+    <img alt="GitHub followers" title="Follow me on GitHub" 
+         src="https://custom-icon-badges.demolab.com/github/followers/nhhoang14?color=3c57b3&labelColor=2e4aa1&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nhhoang14?tab=repositories&sort=stargazers">
+    <img alt="GitHub stars" title="Total stars on GitHub" 
+         src="https://custom-icon-badges.demolab.com/github/stars/nhhoang14?color=3c57b3&labelColor=2e4aa1&style=for-the-badge&logo=star&label=Stars&logoColor=white"/>
+  </a>
 </p>
