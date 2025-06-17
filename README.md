@@ -4,7 +4,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nhhoang14&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nhhoang14&theme=radical&hide_border=false)<br/>
 # 💻 Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nhhoang14&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
