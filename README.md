@@ -1,4 +1,16 @@
 # 👋 Hi, I'm @nhhoang14!
+<p align="left">
+  <img alt="Profile views" title="Profile views on GitHub" 
+       src="https://komarev.com/ghpvc/?username=nhhoang14&label=Profile%20views&color=3c57b3&labelColor=2e4aa1&style=for-the-badge" />
+  <a href="https://github.com/nhhoang14?tab=followers">
+    <img alt="GitHub followers" title="Follow me on GitHub" 
+         src="https://custom-icon-badges.demolab.com/github/followers/nhhoang14?color=3c57b3&labelColor=2e4aa1&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nhhoang14?tab=repositories&sort=stargazers">
+    <img alt="GitHub stars" title="Total stars on GitHub" 
+         src="https://custom-icon-badges.demolab.com/github/stars/nhhoang14?color=3c57b3&labelColor=2e4aa1&style=for-the-badge&logo=star&label=Stars&logoColor=white"/>
+  </a>
+</p>
 
 - 🎓 Studied at the Posts & Telecommunications Institute of Technology, Vietnam  
 - 📫 Reach me at **nhhoangne@gmail.com**
@@ -23,22 +35,3 @@
 ## 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nhhoang14&theme=tokyo-night&hide_border=true)
-
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=nhhoang14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
-
-## 📈 Profile Stats
-
-<p align="left">
-  <img alt="Profile views" title="Profile views on GitHub" 
-       src="https://komarev.com/ghpvc/?username=nhhoang14&label=Profile%20views&color=3c57b3&labelColor=2e4aa1&style=for-the-badge" />
-  <a href="https://github.com/nhhoang14?tab=followers">
-    <img alt="GitHub followers" title="Follow me on GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/followers/nhhoang14?color=3c57b3&labelColor=2e4aa1&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
-  </a>
-  <a href="https://github.com/nhhoang14?tab=repositories&sort=stargazers">
-    <img alt="GitHub stars" title="Total stars on GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/stars/nhhoang14?color=3c57b3&labelColor=2e4aa1&style=for-the-badge&logo=star&label=Stars&logoColor=white"/>
-  </a>
-</p>
