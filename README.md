@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @nhhoang14!
+# 👋 Hi, I'm `@nhhoang14`!
 <p align="left">
   <img alt="Profile views" title="Profile views on GitHub" 
        src="https://komarev.com/ghpvc/?username=nhhoang14&label=Profile%20views&color=3c57b3&labelColor=2e4aa1&style=for-the-badge" />
