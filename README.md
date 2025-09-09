@@ -34,7 +34,7 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nhhoang14&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhhoang14&layout=compact&theme=tokyonight" height="194.980"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhhoang14&layout=compact&theme=tokyonight" />
 </div>
 
 ## 📈 Contribution Graph
