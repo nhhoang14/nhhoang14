@@ -44,10 +44,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nhhoang14&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhhoang14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nhhoang14&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nhho
