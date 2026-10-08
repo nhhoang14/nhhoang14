@@ -1,7 +1,7 @@
 <!-- Header -->
-<h1 align="center">Hi, I'm <code>@nhhoang14</code>! 👋</h1>
+# 👋 Hi, I'm `@nhhoang14`!
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/nhhoang14"><img alt="Profile views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=nhhoang14&label=Profile%20views&color=3c57b3&labelColor=2e4aa1&style=for-the-badge" /></a>
   <a href="https://github.com/nhhoang14?tab=followers">
     <img alt="GitHub followers" title="Follow me on GitHub"
@@ -12,16 +12,12 @@
   </a>
 </p>
 
-## 🔖 About Me
-
-- 🎓 Studied at the **Posts & Telecommunications Institute of Technology, Vietnam**
-- 💻 Interested in Backend Development & Software Engineering
-- ⚙️ Learning through practical projects and building real-world applications.
-- 📫 Reach me at **nhhoangne@gmail.com**
+#### • 🎓 Studied at the **Posts & Telecommunications Institute of Technology, Vietnam**
+#### •  📫 Reach me at **nhhoangne@gmail.com**
 
 ## 💻 Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -33,7 +29,7 @@
 
 ### 📊 GitHub Statistics
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nhhoang14&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhhoang14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
 </p>
