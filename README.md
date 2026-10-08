@@ -12,19 +12,14 @@
   </a>
 </p>
 
----
-
-### 🧭 About Me
+## 🔖 About Me
 
 - 🎓 Studied at the **Posts & Telecommunications Institute of Technology, Vietnam**
-- 💻 Interested in software development and programming
-- 🧠 Currently learning and improving my programming skills through practical projects
-- 🚀 Interested in backend development and building real-world applications
+- 💻 Interested in Backend Development & Software Engineering
+- ⚙️ Learning through practical projects and building real-world applications.
 - 📫 Reach me at **nhhoangne@gmail.com**
 
----
-
-### 🧩 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -35,8 +30,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
 
 ### 📊 GitHub Statistics
 
